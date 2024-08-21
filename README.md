@@ -20,3 +20,5 @@ https://kimlala18.github.io/Raudatulmaula//CSS/Belajar%20CSS/assets/CSS/MEDIAQUE
 
 https://kimlala18.github.io/Raudatulmaula//CSS/Belajar%20CSS/assets/CSS/OPEN%20EDITORS/blog.html
 
+https://kimlala18.github.io/Raudatulmaula//CSS/Belajar%20CSS/assets/CSS/OPEN%20EDITORS/box.html
+
