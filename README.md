@@ -11,3 +11,5 @@ https://kimlala18.github.io/Raudatulmaula/CSS/Belajar%20CSS/index.html
 https://kimlala18.github.io/Raudatulmaula/CSS/Belajar%20CSS/about.html
 
 https://kimlala18.github.io/Raudatulmaula//CSS/Belajar%20CSS/assets/CSS/assets/index.html
+
+https://kimlala18.github.io/Raudatulmaula//CSS/Belajar%20CSS/assets/CSS/CSS.SELECTOR/index.html
