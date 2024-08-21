@@ -15,3 +15,5 @@ https://kimlala18.github.io/Raudatulmaula//CSS/Belajar%20CSS/assets/CSS/assets/i
 https://kimlala18.github.io/Raudatulmaula//CSS/Belajar%20CSS/assets/CSS/CSS.SELECTOR/index.html
 
 https://kimlala18.github.io/Raudatulmaula//CSS/Belajar%20CSS/assets/CSS/FLEXBOX/index.html
+
+https://kimlala18.github.io/Raudatulmaula//CSS/Belajar%20CSS/assets/CSS/MEDIAQUERY/index.html
