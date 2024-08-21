@@ -24,3 +24,6 @@ https://kimlala18.github.io/Raudatulmaula//CSS/Belajar%20CSS/assets/CSS/OPEN%20E
 
 https://kimlala18.github.io/Raudatulmaula//CSS/Belajar%20CSS/assets/CSS/OPEN%20EDITORS/box.html
 
+https://kimlala18.github.io/Raudatulmaula//CSS/Belajar%20CSS/assets/CSS/PRICETABLE/index.html
+
+
