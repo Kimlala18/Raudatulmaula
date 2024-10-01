@@ -35,4 +35,16 @@ https://kimlala18.github.io/Raudatulmaula/BELAJARBOOTSTRAP/index2.html
 
 https://kimlala18.github.io/Raudatulmaula/BELAJARBOOTSTRAP/musium/index.html
 
+Belajar Java Script
+
+https://kimlala18.github.io/Raudatulmaula/Belajar%20JavaScript/Array%20for%20of/index.html
+
+https://kimlala18.github.io/Raudatulmaula/Belajar%20JavaScript/foreach/index.html
+
+https://kimlala18.github.io/Raudatulmaula/Belajar%20JavaScript/JS/index.html
+
+https://kimlala18.github.io/Raudatulmaula/Belajar%20JavaScript/Perulangan/index.html
+
+https://kimlala18.github.io/Raudatulmaula/Belajar%20JavaScript/TEBAK%20TEBAKAN%20ANGKA/index.html
+
 
