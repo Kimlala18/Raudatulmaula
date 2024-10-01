@@ -29,5 +29,8 @@ https://kimlala18.github.io/Raudatulmaula//CSS/Belajar%20CSS/assets/CSS/PRICETAB
 
 Belajar Boostrap
 
+https://kimlala18.github.io/Raudatulmaula/BELAJARBOOTSTRAP/index.html
+
 https://kimlala18.github.io/Raudatulmaula/BELAJARBOOTSTRAP/index2.html
+
 
