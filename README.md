@@ -27,3 +27,7 @@ https://kimlala18.github.io/Raudatulmaula//CSS/Belajar%20CSS/assets/CSS/OPEN%20E
 https://kimlala18.github.io/Raudatulmaula//CSS/Belajar%20CSS/assets/CSS/PRICETABLE/index.html
 
 
+Belajar Boostrap
+
+https://kimlala18.github.io/Raudatulmaula/BELAJARBOOTSTRAP/index2.html
+
