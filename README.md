@@ -49,4 +49,6 @@ https://kimlala18.github.io/Raudatulmaula/Belajar%20JavaScript/TEBAK%20TEBAKAN%2
 
 Belajar Java script asynchronous
 
+https://kimlala18.github.io/Raudatulmaula/javascriptasynchronous/index.html
+
 
