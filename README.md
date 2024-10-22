@@ -47,6 +47,29 @@ https://kimlala18.github.io/Raudatulmaula/Belajar%20JavaScript/Perulangan/index.
 
 https://kimlala18.github.io/Raudatulmaula/Belajar%20JavaScript/TEBAK%20TEBAKAN%20ANGKA/index.html
 
+Belajar java script dom
+
+https://kimlala18.github.io/Raudatulmaula/javascriptdom/thiskeyword/index.html
+
+https://kimlala18.github.io/Raudatulmaula/javascriptdom/selection/index.html
+
+https://kimlala18.github.io/Raudatulmaula/javascriptdom/randomcolor/index.html
+
+https://kimlala18.github.io/Raudatulmaula/javascriptdom/pokemon/index.html
+
+https://kimlala18.github.io/Raudatulmaula/javascriptdom/latihandom/scorekeep-master/index.html
+
+https://kimlala18.github.io/Raudatulmaula/javascriptdom/eventprevent/index.html
+
+https://kimlala18.github.io/Raudatulmaula/javascriptasynchronous/promise/index.html
+
+https://kimlala18.github.io/Raudatulmaula/javascriptdom/eventobject/index.html
+
+https://kimlala18.github.io/Raudatulmaula/javascriptdom/event/index.html
+
+https://kimlala18.github.io/Raudatulmaula/javascriptdom/event/index2.html
+
+
 Belajar Java script asynchronous
 
 https://kimlala18.github.io/Raudatulmaula/javascriptasynchronous/index.html
@@ -54,6 +77,8 @@ https://kimlala18.github.io/Raudatulmaula/javascriptasynchronous/index.html
 https://kimlala18.github.io/Raudatulmaula/javascriptasynchronous/promise/index.html
 
 https://kimlala18.github.io/Raudatulmaula/javascriptasynchronous/backgroundchanger/index.html
+
+https://kimlala18.github.io/Raudatulmaula/javascriptasynchronous/ASYNCAWAIT/index.html
 
 
 
