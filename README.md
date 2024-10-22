@@ -51,4 +51,6 @@ Belajar Java script asynchronous
 
 https://kimlala18.github.io/Raudatulmaula/javascriptasynchronous/index.html
 
+https://kimlala18.github.io/Raudatulmaula/javascriptasynchronous/promise/index.html
+
 
