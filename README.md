@@ -47,4 +47,6 @@ https://kimlala18.github.io/Raudatulmaula/Belajar%20JavaScript/Perulangan/index.
 
 https://kimlala18.github.io/Raudatulmaula/Belajar%20JavaScript/TEBAK%20TEBAKAN%20ANGKA/index.html
 
+Belajar Java script asynchronous
+
 
