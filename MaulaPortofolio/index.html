@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="description" content="Web portofolio tailwind">
+    <meta name="keyword" content="tailwindcss, CSS, tailwind">
+    <meta name="author" content="codepolitan">
+	<link rel="stylesheet" href="https://unpkg.com/tailwindcss@%5E1.0/dist/tailwind.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
+    <style>	
+        .gradient 
+        {
+        background-image: linear-gradient(to bottom right, pink , rgba(255, 0, 0, 0.062) );
+        }
+        .gradient-skill
+        {
+        background-image: linear-gradient(#eb191942,#FED7D7);
+        }
+        .gradient-bottom
+        {
+        background-image: linear-gradient(#ca44323a,pink);
+        }
+        </style>
+</head>
+<body>
+    <section class="w-screen mx-auto px-4">
+        <nav class="flex flex-wrap p-6 justify-between">
+            <div class="flex flex-shrink-0 mr-6">
+                <img src="img/pink.png" class="h-10 w-50 mr-2">
+            </div>
+            <div class="block lg:hidden">
+                <a class="flex items-center px-3 py-2 rounded border border-indigo-400 text-indigo-500 hover:text-indigo-700 hover:border-indigo-700">
+                    <svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><title>Menu</title><path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z"/>
+                    </svg>
+                </a>
+            </div>  
+            <div class="w-full block flex-grow lg:flex lg:items-center lg:w-auto">
+                <div class="text-sm lg:flex-grow">
+                    
+                    <a href="#Home" class="block mt-4 lg:inline-block lg:mt-0  text-gray-600 hover:text-gray-900 text-lg mr-4">
+                        Home
+                    </a>
+                    <a href="#about" class="block mt-4 lg:inline-block lg:mt-0  text-gray-600 hover:text-gray-900 text-lg mr-4">
+                        About me
+                    </a>
+                    <a href="#Experience" class="block mt-4 lg:inline-block lg:mt-0  text-gray-600 hover:text-gray-900 text-lg mr-4">
+                        Experience
+                    </a>
+                    <a href="#Blog" class="block mt-4 lg:inline-block lg:mt-0  text-gray-600 hover:text-gray-900 text-lg mr-4">
+                        Blog
+                    </a>
+                </div>
+            </div>	
+            <div>
+                <a href="#" class="inline-block text-sm px-4 py-2 rounded text-gray-600 border border-gray-600 hover:border-transparent hover:text-white hover:bg-indigo-700 mt-4 lg:mt-0">
+                Contact me
+                </a>
+            </div>
+        </nav>
+    </section>
+    <section id="Home" class="bg-gradient-to-r from-pink-500 to-white-600 min-h-screen flex items-center">
+        <div class="container mx-auto px-6 text-center lg:text-left">
+          
+          <!-- Content Section -->
+          <div class="lg:flex lg:items-center lg:justify-between">
+            
+            <!-- Left Side: Text -->
+            <div class="lg:w-1/2">
+              <h1 class="text-5xl font-extrabold text-white leading-tight mb-4">
+                Hello __
+              </h1>
+              <h2 class="text-5xl font-extrabold text-white leading-tight mb-4">
+               Hello Im Raudatul Maula
+              </h2>
+              <p class="text-lg text-gray-100 mb-6">
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque, beatae in. Nesciunt, dolore hic voluptas quibusdam excepturi dolor sed repellendus obcaecati ipsa! Maxime rem ea nam perferendis ipsum eos explicabo!
+              </p>
+              <a href="#portfolio" class="inline-block bg-yellow-300 text-gray-800 font-bold py-3 px-6 rounded-full hover:bg-yellow-400 transition duration-300">
+                Download CV
+              </a>
+            </div>
+      
+            <!-- Right Side: Image -->
+            <div class="lg:w-1/2 mt-12 lg:mt-0">
+              <img src="img/kim1.jpeg" alt="Profile Picture" class="w-full max-w-sm mx-auto lg:mx-20 rounded-lg shadow-lg">
+            </div>
+      
+          </div>
+        </div>
+      </section>
+
+      <section id="about" class="bg-white py-16 recent bg-pink-200 ">
+        <div class="container mx-auto flex flex-col md:flex-row items-center px-6">
+          <div class="text-4xl font-bold text-center text-white-700 mb-12">
+            <h2 class="text-4xl font-bold text-blue-800 mb-4">About Me</h2>
+            <p class="text-lg text-gray-100 mb-6">
+                Hi! I'm [Lala], seorang pengembang web yang antusias dan senang menciptakan pengalaman digital yang luar biasa. Dengan latar belakang di web development, saya suka mengubah masalah kompleks menjadi solusi yang sederhana, indah, dan intuitif. Setiap baris kode adalah kesempatan bagi saya untuk berinovasi dan memperbaiki cara orang berinteraksi dengan teknologi.
+            </p>
+            <p class="text-lg text-pink-600 mb-6">
+                Yuk, kita buat sesuatu yang keren bersama!
+            </p>
+      
+            <!-- Social Media Icons -->
+          </div>
+        </div>
+      </section>
+
+      <section id="Experience" class="py-12 bg-gradient-to-r from-blue-100 to-pink-500">
+        <div class="container mx-auto px-4">
+          <h2 class="text-4xl font-bold text-center text-gray-800 mb-12">
+            My Experience
+          </h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 bg-white py-4 px-4 md:py-8 md:px-8 m-16 rounded-lg">
+            <div class="max-w-sm shadow-lg px-4 py-4 bg-white-500 m-3 text-center">
+                <i class="fas  fa-5x text-blue-500 mb-6"></i> 
+                <div class="p-4  ">
+                    <p class="font-bold text-lg md:text-xl mb-6">SMKN1 KANDANGHAUR INDRAMAYU</p>
+                    <p class="text-gray-600 text-base mb-2">Agustus 2018- agustus 2021</p>
+                    <hr class="text-gray-600 mb-2">
+                    <p class="text-gray-600 text-base mb-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus magnam illum architecto, eos deleniti quisquam rem dolorem sequi labore animi quibusdam dolore, modi sapiente corporis a quam quo numquam exercitationem?</p>
+                    <hr class="text-gray-600 mb-2">
+                    
+                </div>   
+            </div>
+            <div class="max-w-sm shadow-lg px-4 py-4 bg-white-500 m-3 text-center">
+                <i class="fas  fa-5x text-blue-500 mb-6"></i> 
+                <div class="p-4  ">
+                    <p class="font-bold text-lg md:text-xl mb-6">MAHASISWA POLITEKNIK INDRAMAYU</p>
+                    <p class="text-gray-600 text-base mb-2">agustus 2021 - present</p>
+                    <hr class="text-gray-600 mb-2">
+                    <p class="text-gray-600 text-base mb-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus magnam illum architecto, eos deleniti quisquam rem dolorem sequi labore animi quibusdam dolore, modi sapiente corporis a quam quo numquam exercitationem?</p>
+                    <hr class="text-gray-600 mb-2">
+                    
+                </div>  
+                 
+            </div>
+            </div>
+        </div>
+    </section>
+
+
+      <section id="Blog" class="py-12 bg-gradient-to-r from-pink-500 to-blue-50">
+        <div class="container mx-auto px-4">
+          <h2 class="text-4xl font-bold text-center text-white mb-12">My Blog</h2>
+      
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      
+            <!-- Blog Post 1 -->
+            <div class="relative bg-white rounded-lg shadow-lg overflow-hidden transform hover:scale-105 transition-transform duration-300">
+              <img src="img/GAME1.webp" alt="Blog Image 1" class="w-full h-48 object-cover">
+              <div class="p-6">
+                <h3 class="text-2xl font-semibold text-gray-800 mb-3">Beberapa website yang memungkinkan kamu belajar coding sambil bermain game</h3>
+                <p class="text-gray-600 mb-4">Ringkasan singkat tentang blog ini yang mengundang pembaca untuk membaca lebih lanjut. Ringkasan ini bisa mencerminkan konten dan gaya tulisan Anda.</p>
+                <a href="https://www.codepolitan.com/blog/beberapa-website-yang-memungkinkan-kamu-belajar-coding-sambil-bermain-game/" class="text-blue-500 font-semibold hover:underline">Baca Selengkapnya →</a>
+              </div>
+              <div class="absolute top-0 right-0 bg-blue-500 text-white py-2 px-4 text-sm font-bold">New</div>
+            </div>
+      
+            <!-- Blog Post 2 -->
+            <div class="relative bg-white rounded-lg shadow-lg overflow-hidden transform hover:scale-105 transition-transform duration-300">
+              <img src="img/C.jpg" alt="Blog Image 2" class="w-full h-48 object-cover">
+              <div class="p-6">
+                <h3 class="text-2xl font-semibold text-gray-800 mb-3">Bahasa C: Bahasa Pemrograman yang Jadi Bapaknya Banyak Bahasa</h3>
+                <p class="text-gray-600 mb-4">Tulis ringkasan yang menarik dan informatif agar pembaca ingin tahu lebih banyak tentang isi blog ini. Fokus pada konten inti blog Anda.</p>
+                <a href="https://www.codepolitan.com/blog/bahasa-c-bahasa-pemrograman-yang-jadi-bapaknya-banyak-bahasa/" class="text-blue-500 font-semibold hover:underline">Baca Selengkapnya →</a>
+              </div>
+              <div class="absolute top-0 right-0 bg-green-500 text-white py-2 px-4 text-sm font-bold">Trending</div>
+            </div>
+
+            <!-- Blog Post  -->
+            <div class="relative bg-white rounded-lg shadow-lg overflow-hidden transform hover:scale-105 transition-transform duration-300">
+                <img src="img/7.png" alt="Blog Image 2" class="w-full h-48 object-cover">
+                <div class="p-6">
+                  <h3 class="text-2xl font-semibold text-gray-800 mb-3">Waterfall Model SDLC: Apa Itu? Contoh dan Visual Lengkap</h3>
+                  <p class="text-gray-600 mb-4">Tulis ringkasan yang menarik dan informatif agar pembaca ingin tahu lebih banyak tentang isi blog ini. Fokus pada konten inti blog Anda.</p>
+                  <a href="https://www.codepolitan.com/blog/waterfall-model-sdlc-apa-itu-contoh-dan-visual-lengkap/" class="text-blue-500 font-semibold hover:underline">Baca Selengkapnya →</a>
+                </div>
+                <div class="absolute top-0 right-0 bg-green-500 text-white py-2 px-4 text-sm font-bold">Trending</div>
+              </div>
+
+            <!-- Blog Post  -->
+            <div class="relative bg-white rounded-lg shadow-lg overflow-hidden transform hover:scale-105 transition-transform duration-300">
+                <img src="img/foto2.jpg" alt="Blog Image 2" class="w-full h-48 object-cover">
+                <div class="p-6">
+                  <h3 class="text-2xl font-semibold text-gray-800 mb-3">Large 2: Terobosan Baru Mistral di Dunia AI</h3>
+                  <p class="text-gray-600 mb-4">Tulis ringkasan yang menarik dan informatif agar pembaca ingin tahu lebih banyak tentang isi blog ini. Fokus pada konten inti blog Anda.</p>
+                  <a href="https://www.codepolitan.com/blog/large-2-terobosan-baru-mistral-di-dunia-ai/" class="text-blue-500 font-semibold hover:underline">Baca Selengkapnya →</a>
+                </div>
+                <div class="absolute top-0 right-0 bg-green-500 text-white py-2 px-4 text-sm font-bold">Trending</div>
+              </div>
+            
+            <!-- Blog Post  -->
+            <div class="relative bg-white rounded-lg shadow-lg overflow-hidden transform hover:scale-105 transition-transform duration-300">
+                <img src="img/3.jpg" alt="Blog Image 2" class="w-full h-48 object-cover">
+                <div class="p-6">
+                  <h3 class="text-2xl font-semibold text-gray-800 mb-3">Peneliti MIT memperkenalkan AI generatif untuk database</h3>
+                  <p class="text-gray-600 mb-4">Tulis ringkasan yang menarik dan informatif agar pembaca ingin tahu lebih banyak tentang isi blog ini. Fokus pada konten inti blog Anda.</p>
+                  <a href="https://www.codepolitan.com/blog/peneliti-mit-memperkenalkan-ai-generatif-untuk-database/" class="text-blue-500 font-semibold hover:underline">Baca Selengkapnya →</a>
+                </div>
+                <div class="absolute top-0 right-0 bg-green-500 text-white py-2 px-4 text-sm font-bold">Trending</div>
+              </div>
+            
+            <!-- Blog Post  -->
+            <div class="relative bg-white rounded-lg shadow-lg overflow-hidden transform hover:scale-105 transition-transform duration-300">
+                <img src="img/zone.webp" alt="Blog Image 2" class="w-full h-48 object-cover">
+                <div class="p-6">
+                  <h3 class="text-2xl font-semibold text-gray-800 mb-3">Amazon bertaruh pada energi nuklir untuk mendukung pertumbuhan pusat data di masa depan.</h3>
+                  <p class="text-gray-600 mb-4">Tulis ringkasan yang menarik dan informatif agar pembaca ingin tahu lebih banyak tentang isi blog ini. Fokus pada konten inti blog Anda.</p>
+                  <a href="https://www.codepolitan.com/blog/amazon-bertaruh-pada-energi-nuklir-untuk-mendukung-pertumbuhan-pusat-data-di-masa-depan/" class="text-blue-500 font-semibold hover:underline">Baca Selengkapnya →</a>
+                </div>
+                <div class="absolute top-0 right-0 bg-green-500 text-white py-2 px-4 text-sm font-bold">Trending</div>
+              </div>
+              
+
+              
+            
+             
+
+    </section>
+    
+    <section class="w-screen mx-auto py-4 bg-white mt-8 mb-8">
+        <div class="text-center">
+            <!-- link & icon -->
+            <a href="#" class="text-indigo-700 hover:text-indigo-900 p-2 ">
+                <i class="fa-2x fab fa-facebook"></i>
+             </a>
+             <a href="#" class="text-indigo-700 hover:text-indigo-900 p-2 ">
+                <i class="fa-2x fab fa-twitter"></i>
+             </a>
+             <a href="#" class="text-indigo-700 hover:text-indigo-900 p-2 ">
+               <i class="fa-2x fab fa-instagram"></i>
+             </a>
+        </div>
+        <div class="text-center mt-4 text-gray-600">
+            Design with Maulaisjati
+         </div>
+    </section>
+</body>
+</html>
